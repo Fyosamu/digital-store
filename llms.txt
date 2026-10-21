@@ -1,0 +1,9 @@
+# Digital Products Storefront (dazo)
+
+> Static storefront for selling digital goods: crypto checkout (USDT BEP-20/ERC-20), instant delivery, full legal pages. No backend, no monthly bill. The template itself is for sale - source on GitHub: https://github.com/Fyosamu/digital-store. Built by dazo studio, hkay7645@gmail.com.
+
+## Pages
+
+- Storefront: https://fyosamu.github.io/digital-store/
+
+- Studio home and all prices: https://fyosamu.github.io/pricing/
